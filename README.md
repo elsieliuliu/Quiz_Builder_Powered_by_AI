@@ -18,4 +18,5 @@ employs Google's Gemini and Vertex AI API to process documents and construct qui
 ![Quiz Builer Interface](./QuizBuilder.png "Quiz Builder")
 
 ## Demonstration
-[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=[VIDEO_ID](https://youtu.be/zIOwDJIPLnk) "Quiz Builder Demo")
+[![demo](./QuizBuilder.jpg)](https://youtu.be/zIOwDJIPLnk "My Quiz Builder Demo")
+
