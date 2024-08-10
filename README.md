@@ -15,9 +15,6 @@ The Quiz Builder is capable of generating quizzes based on both uploaded documen
 Leveraging machine learning models for text embeddings, the system 
 employs Google's Gemini and Vertex AI API to process documents and construct quizzes. 
 
-![Quiz Builer Interface](./QuizBuilder.png "Quiz Builder")
-
 ## Demonstration
-[[![demo](./QuizBuilder.jpg)](https://youtu.be/zIOwDJIPLnk "My Quiz Builder Demo")](https://github.com/user-attachments/assets/1d04aac9-3cb5-45fd-a697-0a842dc4bb32
-)
+https://github.com/user-attachments/assets/1d04aac9-3cb5-45fd-a697-0a842dc4bb32
 
